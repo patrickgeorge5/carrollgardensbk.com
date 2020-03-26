@@ -1,0 +1,4 @@
+extends: default
+
+rules:
+  line-length: disable  # links make it impossible to adhere to this rule

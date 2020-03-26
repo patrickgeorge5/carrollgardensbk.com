@@ -1,0 +1,516 @@
+open:
+  - name: Alta Calidad
+    url: https://altacalidadbk.com
+    instagram: https://www.instagram.com/altacalidadbk/
+    hours: 11AM - 10PM⁣
+    delivery:
+      uber_eats: https://www.ubereats.com/new-york/food-delivery/alta-calidad/L0ktkVRjQbOkllv7UWe1fQ
+      doordash: https://www.doordash.com/store/alta-calidad-brooklyn-133126/
+      postmates: https://postmates.com/merchant/alta-calidad-brooklyn
+      seamless: https://www.seamless.com/menu/alta-calidad-552-vanderbilt-ave-brooklyn/460349
+      caviar: https://www.trycaviar.com/m/alta-calidad-5914
+    notes: All take-out orders come with a free to-go margarita. Pick-up also available <a href="https://www.toasttab.com/alta-calidad/v3">here.</a>
+    links:
+      - title: Staff relief fund
+        url: https://www.gofundme.com/f/alta-calidad-employee-relief-fund
+      - title: Gift cards
+        url: https://www.toasttab.com/alta-calidad/giftcards
+    last_updated: 3/23
+
+  - name: Amorina Pizza
+    url: http://www.amorinapizza.com/
+    instagram: https://www.instagram.com/amorinapizza/
+    hours: 5 - 11PM (Thu-Sat), 5 - 10PM (Sun)
+    phone: (917) 905-2279
+    notes: Call or order take-out or delivery on Seamless. Days and hours may change based on demand.
+    delivery:
+      seamless: https://www.seamless.com/menu/amorina-cucina-rustica-624-vanderbilt-ave-brooklyn/292222
+    last_updated: 3/18
+
+  - name: Beer Street South
+    url: https://www.beerstreetny.com
+    instagram: https://www.instagram.com/beerstreetsouth/
+    untappd: https://untappd.com/v/beer-street-south/9792005
+    hours: 2 - 8PM
+    notes: Pick-up available now, pre-orders and delivery available soon.
+    links:
+      - title: Gift cards
+        url: https://squareup.com/gift/C3K54BY60YNAP/order
+    last_updated: 3/23
+
+  - name: Bergen Bagels
+    url: http://www.bergenbagels.com/
+    instagram: https://www.instagram.com/bergen_bagels/
+    hours: 8AM - 2PM
+    notes: Open for pick-up and delivery.
+    delivery:
+      doordash: https://www.doordash.com/store/bergen-bagels-brooklyn-312992/en-US
+      seamless: https://www.seamless.com/menu/bergen-bagels-on-bergen-473-bergen-st-brooklyn/549250
+    last_updated: 3/25
+
+  - name: Bierwax
+    url: https://www.bierwaxnyc.com
+    instagram: https://www.instagram.com/bierwax/
+    untappd: https://untappd.com/v/bierwax/7133448
+    phone: (347) 533-8449
+    hours: 2-7 PM
+    notes: <a href="https://www.bierwaxnyc.com/beerlist">View the menu online</a>. ⁣Call ahead and they will get your order ready. Credit cards only.
+    links:
+      - title: Gift cards
+        url: https://squareup.com/gift/MY2KY2405T5NT/order
+    last_updated: 3/24
+
+  - name: BKLYN Larder
+    url: https://www.bklynlarder.com
+    instagram: https://www.instagram.com/bklynlarder/
+    phone: (718) 783-1250
+    notes: “Call us to get all of your groceries and Larder goods delivered… including beer! We can walk you through what’s available and we can even FaceTime you if you’d like to shop through video.”
+    links:
+      - title: Gift cards
+        url: https://www.bklynlarder.com/gift-cards/
+    last_updated: 3/23
+
+  - name: Blue Marble
+    url: https://www.bluemarbleicecream.com
+    instagram: https://www.instagram.com/bluemarblebk/
+    hours: 8AM - 4PM
+    phone: (718) 399-6926
+    notes: Coffee, pastries, pints, and cups available from the take-out window or for delivery via Postmates. “Our hours and offerings may vary, but we will post daily.”
+    delivery:
+      postmates: https://postmates.com/merchant/blue-marble-brooklyn
+    last_updated: 3/22
+
+  - name: Born Thai
+    phone: (347) 663-3674
+    hours: 12 - 9:30PM
+    url: https://www.bornbklyn.com/
+    instagram: https://www.instagram.com/bornthaibklyn/
+    notes: Take-out and delivery
+    delivery:
+      doordash: https://www.doordash.com/store/bergen-bagels-brooklyn-312992/en-US
+      seamless: https://www.seamless.com/menu/born-thai-293-flatbush-ave-brooklyn/1152911
+      uber_eats: https://www.ubereats.com/new-york/food-delivery/born-thai/GwItgnPZQ8uqjmzCyDQ0JA
+      postmates: https://postmates.com/merchant/born-thai-brooklyn
+    last_updated: 3/16
+
+  - name: Burrito Bar & Kitchen
+    url: https://www.burritobarbrooklyn.com
+    instagram: https://www.instagram.com/burritobarbk
+    phone: (718) 230-8646
+    hours: 12 - 10PM
+    notes: Offering curbside carry-out and delivery (alcohol included)
+    delivery:
+      chownow: https://direct.chownow.com/order/7878/locations/10581
+    last_updated: 3/20
+
+  - name: Cheryl’s Global Soul
+    url: https://www.cherylsglobalsoul.com
+    hours: 12 - 8PM
+    phone: (347) 529-2855
+    notes: Call for pickup and delivery. <a href="https://12fcfcc5-9c0c-71b4-d2e6-789a72c3925c.filesusr.com/ugd/370d25_c8eae6a23a7944f28114f5f0b83f4f3a.pdf">Delivery menu here</a>.
+    last_updated: 3/19
+
+  - name: Chuko
+    url: http://www.chukobk.com
+    instagram: https://www.instagram.com/chukobk/
+    phone: (347) 425-9570
+    hours: 5:30 - 9PM
+    last_updated: 3/22
+    notes: Beer, wine, and sake to-go (20% off). Call or order online.
+    delivery:
+      caviar: https://www.trycaviar.com/m/chuko-ramen-3843
+      doordash: https://www.doordash.com/store/chuko-ramen-brooklyn-22335/en-US
+
+  - name: Covenhoven
+    url: https://www.covenhovennyc.com
+    instagram: https://www.instagram.com/covenhovennyc/
+    untappd: https://untappd.com/v/covenhoven/1406024
+    phone: (718) 483-9950
+    hours: 12 - 9PM (Sun/Wed), 12 - 10PM (Thu - Sat)
+    notes: Drafts, cans, and food to go. Bring a growler/thermos/water bottle/etc.
+    last_updated: 3/18
+
+  - name: Faun
+    url: https://faun.nyc
+    instagram: https://www.instagram.com/faun.nyc/
+    phone: (718) 576-6120
+    delivery:
+      caviar: https://www.trycaviar.com/m/faun-17403
+    links:
+      - title: Staff relief fund
+        url: https://www.gofundme.com/f/faun-staff-relief-fund
+      - title: Gift cards (25% off)
+        url: https://faun.nyc/gift-cards
+    last_updated: 3/16
+
+  - name: Geido
+    url: https://geido.nyc
+    hours: 5:30 - 10PM (Wed-Sun), 12:30-3PM (Sat-Sun)
+    phone: (718) 638-8866
+    notes: Accepting walk-ins for take-out and calls/online orders for pickup. Delivery coming soon.
+    delivery:
+      chownow: https://direct.chownow.com/order/13995/locations/19649
+
+  - name: Gen Sushi
+    url: http://www.genbrooklyn.com
+    instagram: https://www.instagram.com/gen.brooklyn/
+    phone: (718) 398-3550
+    hours: 5 - 9PM
+    notes: Open for pick-up and delivery (please call if you have dietary restrictions). Specific days of operation TBD.
+    delivery:
+      upserve: https://app.upserve.com/s/gen-brooklyn
+    links:
+      - title: Staff relief fund
+        url: https://www.gofundme.com/f/gen-restaurant-employee-fund
+    last_updated: 2/24
+
+  - name: Gold Star Beer Counter
+    url: http://goldstarbeercounter.com
+    instagram: https://www.instagram.com/goldstarbeercounter/
+    untappd: https://untappd.com/v/gold-star-beer-counter/3171446
+    hours: 11AM - 9PM
+    notes: Beer and cider to go. Check website and <a href="https://untappd.com/v/gold-star-beer-counter/3171446">Untappd</a> for inventory. Accepting credit cards and Venmo.
+    last_updated: 3/16
+
+  - name: Hungry Ghost
+    hours: 7AM - 5PM
+    url: https://www.hungryghostcoffee.com/
+    instagram: https://www.instagram.com/hungryghostcoffee/
+    notes: Serving take-out
+    links:
+      - title: Gift cards (20% off)
+        url: https://squareup.com/gift/86HHGQC7C1RMH/order
+    last_updated: 3/23
+
+  - name: James
+    url: http://www.jamesrestaurantny.com
+    instagram: https://www.instagram.com/jamesbklyn/
+    phone: (718) 942-4255
+    hours: 12 - 8PM
+    notes: Take-out and provisions (including batch cocktails). Pay over the phone and they will bring your bag outside for you. Delivery coming soon via Caviar.
+    links:
+      - title: Staff relief fund
+        url: https://www.gofundme.com/f/james-staff-emergency-relief-fund
+      - title: Gift cards and shop
+        url: http://www.jamesrestaurantny.com/shop
+    last_updated: 3/22
+
+  - name: Lincoln Station
+    url: https://www.stationfoods.com
+    instagram: https://instagram.com/lincolnstationbk
+    hours: 7AM - 9PM (Mon-Fri), 8AM - 9PM (Sat-Sun)
+    phone: (718) 399-2211
+    notes: Open for pick-up and delivery
+    delivery:
+      seamless: https://www.seamless.com/menu/lincoln-station-409-lincoln-pl-brooklyn/315738
+      caviar: https://www.trycaviar.com/m/lincoln-station-758
+    last_updated: 3/20
+
+  - name: Little Cupcake Bakeshop
+    phone: (718) 783-0770
+    url: http://www.littlecupcakebakeshop.com
+    instagram: https://www.instagram.com/littlecupcakebakeshop/
+    notes: Open for take-out
+    last_updated: 3/25
+
+  - name: MeMe’s Diner
+    url: https://www.memesdiner.com
+    hours: 10AM - 4PM
+    instagram: https://www.instagram.com/memesdiner/
+    phone: (718) 636-2900
+    delivery:
+      caviar: https://www.trycaviar.com/m/memes-diner-10883
+    notes: Order brunch delivery via Caviar or by calling. Wine/beer/liquor available (some at retail prices).
+    last_updated: 3/22
+    links:
+      - title: Staff relief fund
+        url: https://www.memesdiner.com/covid-19-staff-fund-donation
+      - title: Gift cards
+        url: https://www.memesdiner.com/gift-certificates
+
+  - name: Lowerline
+    hours: 12 - 8PM
+    url: https://www.lowerlinebk.com
+    instagram: https://www.instagram.com/lowerline/
+    phone: (347) 533-7110
+    notes: Pick-up and delivery via Caviar (although preference for calling directly)
+    delivery:
+      caviar: https://www.trycaviar.com/m/lowerline-11359
+    links:
+      - title: Gift cards
+        url: https://squareup.com/gift/W0XRH9R9BY895/order
+    last_updated: 3/25
+
+  - name: Morgan’s BBQ
+    url: https://www.morgansbrooklynbarbecue.com
+    instagram: https://www.instagram.com/morgansbrooklynbbq/
+    phone: (718) 622-2224
+    hours: 4 - 10PM (Mon - Fri), 12 - 10PM (Sat - Sun)
+    notes: We now deliver beer along with food delivery or take-out orders.
+    delivery:
+      caviar: https://www.trycaviar.com/m/morgans-brooklyn-bbq-11362?_branch_match_id=652587222868224742&cav_medium=widget&cav_source=mer-_HNorLt-e21sQo8-1Lttcg&how=delivery&merchant_token=mer-_HNorLt-e21sQo8-1Lttcg&utm_campaign=link&utm_content=morgans-brooklyn-barbecue-11362&utm_medium=restaurant_partners&utm_source=widget&utm_term=brooklyn-queens
+      seamless: https://www.seamless.com/menu/morgans-brooklyn-barbecue-267-flatbush-ave-brooklyn/317192
+      uber_eats: https://www.ubereats.com/new-york/food-delivery/morgans-barbeque-prospect-heights/gzrcH1RcQju4pNh82lG1vg
+      doordash: https://www.doordash.com/store/morgan-s-barbecue-brooklyn-22100/en-US
+    links:
+      - title: Gift cards
+        url: https://www.morgansbrooklynbarbecue.com/store/gift-cards/
+      - title: Merchandise
+        url: https://www.morgansbrooklynbarbecue.com/store/
+    last_updated: 3/23
+
+  - name: Nourish Thai
+    hours: 12 - 10:30PM
+    phone: (718) 789-3981
+    url: https://www.nourishthai.com
+    instagram: https://www.instagram.com/nourishthai/
+    notes: Take-out and delivery
+    delivery:
+      caviar: https://www.trycaviar.com/m/nourish-thai-12825
+    last_updated: 3/17
+
+  - name: Private Yoga Lessons
+    url: https://www.privateyogasoho.com
+    phone: (740) 221-3048
+    notes: Offering virtual private yoga and meditation lessons via FaceTime, Zoom, and Google Hangouts. <a href="mailto:alli@privateyogasoho.com">alli@privateyogasoho.com</a>
+    last_updated: 3/25
+
+  - name: R&D Foods
+    url: https://www.rdfoodsbklyn.com/
+    instagram: https://www.instagram.com/rdfoods/
+    phone: (347) 915-1196
+    hours: 8AM – 7PM
+    notes: Planning to reopen “next week” with online order for pickup and delivery of prepared foods and groceries
+    last_updated: 3/24
+    links:
+      - title: Gift cards
+        url: https://www.rdfoodsbklyn.com/gifts
+
+  - name: Rose’s
+    phone: (718) 230-0427
+    url: http://www.rosesbklyn.com
+    instagram: https://www.instagram.com/rosesbklyn/
+    hours: 12 - 6 PM
+    notes: Call to order. Menu changes daily with burger kits and cocktails to go. Cash and Venmo accepted, gift cards purchasable via credit card.
+    last_updated: 3/18
+    links:
+      - title: Staff relief fund
+        url: https://www.gofundme.com/f/rose039s-staff-assistance-fund
+
+  - name: Stocked
+    url: https://www.stockedbrooklyn.com/cafe
+    instagram: https://www.instagram.com/stockedbrooklyn/
+    hours: 9AM - 3PM (Mon-Fri), 9AM - 6PM (Sat-Sun)
+    phone: (929) 234-6554
+    notes: Curbside pick-up and delivery. “Please call the restaurant when you arrive and we will bring out your food.”
+    delivery:
+      chownow: https://direct.chownow.com/order/18159/locations/26047
+    last_updated: 3/23
+
+  - name: Tom’s Restaurant
+    url: https://tomsbrooklyn.com
+    instagram: https://www.instagram.com/tomsrestaurantnyc/
+    phone: (212) 864-6137
+    notes: Open for pick-up and delivery (I’m unable to find on DoorDash but they claim to be available there)
+    last_updated: 3/17
+
+  - name: Underhill Greek Eatery
+    phone: (718) 484-3744
+    hours: 3:30PM - 9:30PM
+    url: https://underhillbrooklyn.com/
+    instagram: https://www.instagram.com/underhillgreekeatery/
+    notes: 10% off takeout orders of $50+
+    delivery:
+      caviar: https://www.trycaviar.com/m/underhill-cafe-and-grill-10596
+      doordash: https://www.doordash.com/store/underhill-cafe-and-grill-brooklyn-312894/en-US
+      seamless: https://www.seamless.com/menu/view/768940
+      uber_eats: https://www.ubereats.com/new-york/food-delivery/underhill-cafe-%26-grill/a9MCFJrEQKy95yjuR4e4Rg
+      postmates: https://postmates.com/merchant/underhill-cafe-grill-brooklyn
+
+  - name: Van Leeuwen Ice Cream
+    url: https://vanleeuwenicecream.com/location/prospect-heights/
+    instagram: https://www.instagram.com/vanleeuwenicecream/
+    hours: 11AM - 11PM (12AM Fri/Sat)
+    phone: (347) 240-7453
+    notes: Order online for delivery or pick-up
+    delivery:
+      caviar: https://trycaviar.app.link/7jIqsTuzjW
+      uber_eats: https://www.ubereats.com/en-US/new-york/food-delivery/van-leeuwen-artisan-ice-cream-prospect-heights/lRdl_U-mS8yow9R-xiO2ZQ/
+      postmates: https://postmates.com/merchant/van-leeuwen-ice-cream-brooklyn
+
+  - name: White Tiger
+    hours: 5 – 10PM (11PM Fri/Sat)
+    url: http://www.whitetiger.nyc
+    instagram: https://www.instagram.com/whitetigerbklyn/
+    phone: (718) 552-2272
+    delivery:
+      seamless: https://www.seamless.com/menu/white-tiger-601-vanderbilt-ave-brooklyn/1981045
+      doordash: https://www.doordash.com/store/white-tiger-brooklyn-132915/en-US
+    notes: Delivery through Seamless/DoorDash. Call for pick-up.
+    last_updated: 3/16
+
+  - name: Zaytoons
+    phone: (718) 230-3200
+    url: https://zaytoons.com
+    instagram: https://www.instagram.com/zaytoonsrestaurant/
+    notes: Take-out and delivery
+    delivery:
+      caviar: https://www.trycaviar.com/m/zaytoons-12972
+    last_updated: 3/17
+
+closed:
+  - name: Ample Hills
+    url: https://www.amplehills.com
+    instagram: https://www.instagram.com/amplehills/
+    delivery:
+      caviar: https://www.trycaviar.com/m/ample-hills--prospect-heights-1722
+      seamless: https://www.seamless.com/menu/ample-hills---prospect-heights-623-vanderbilt-ave-brooklyn/1711574
+      uber_eats:
+      postmates:
+    notes: Hoping to reopen “on or around April 9th”
+    last_updated: 3/18
+
+  - name: BKLYN Clay
+    url: https://bklynclay.com
+    instagram: https://www.instagram.com/bklynclay/
+    notes: Closed until further notice
+    links:
+      - title: Staff relief fund
+        url: https://www.bklynclay.com/checkout/donate?donatePageId=5e795b6604497b59a692c207
+      - title: Gift cards
+        url: https://www.bklynclay.com/gift-certificates
+    last_updated: 3/24
+
+  - name: Brooklyn Metal Works
+    url: http://bkmetalworks.com
+    instagram: https://www.instagram.com/brooklynmetalworks/
+    notes: Closed until further notice. Shop online or buy gift certificates.
+    last_updated: 3/24
+    links:
+      - title: Gift cards
+        url: https://shop.bkmetalworks.com/product/gift-certificates
+
+  - name: Ciao, Gloria
+    url: https://www.ciaogloria.com
+    instagram: https://www.instagram.com/ciaoglorianyc/
+    notes: Closed until further notice
+    links:
+      - title: Staff relief fund
+        url: https://www.gofundme.com/f/ciao-gloria-employee-fund
+      - title: Gift cards
+        url: https://squareup.com/gift/0TSZB8YWYDFH0/order
+    last_updated: 3/16
+
+  - name: Doughnut Plant
+    url: https://www.doughnutplant.com
+    instagram: https://www.instagram.com/doughnutplant/
+    notes: Closed Monday/Tuesday/Wednesday. “We promise this is not goodbye, and we will update you on Wednesday.”
+    links:
+      - title: Gift cards
+        url: https://www.doughnutplant.com/store/gift-cards/
+    last_updated: 3/22
+
+  - name: Fausto
+    url: https://www.faustobrooklyn.com
+    instagram: https://www.instagram.com/faustobrooklyn/
+    notes: Closed until further notice
+    links:
+      - title: Staff relief fund
+        url: https://www.gofundme.com/f/fausto-employee-fund
+    last_updated: 3/21
+
+  - name: LaLou
+    url: https://laloubrooklyn.com
+    instagram: https://www.instagram.com/laloubrooklyn/
+    notes: Closed until further notice
+    links:
+      - title: Staff relief fund
+        url: https://www.gofundme.com/f/lalou-employee-fund
+    last_updated: 3/16
+
+  - name: Maison Yaki
+    url: http://www.maisonyaki.com/
+    instagram: https://www.instagram.com/maisonyaki/
+    notes: Closed until further notice
+    links:
+      - title: Staff relief fund
+        url: https://www.gofundme.com/f/olmsted-amp-maison-yaki-staff-disaster-relief-fund
+    last_updated: 3/18
+
+  - name: Milk Bar
+    url: https://www.instagram.com/milkbarbrooklyn/
+    instagram: https://www.milkbarbrooklyn.com
+    notes: Closed until further notice
+    links:
+      - title: Staff relief fund
+        url: https://www.gofundme.com/f/milk-bar-brunswick-team-relief-fund
+    last_updated: 3/25
+
+  - name: Ogliastro Pizza Bar
+    url: https://ogliastropizza.com
+    instagram: https://www.instagram.com/ogliastro.brooklyn/
+    notes: Closed until further notice. “We will be starting a GoFundMe for our staff soon”
+    links:
+      - title: Staff relief fund
+        url: https://www.gofundme.com/f/please-help-the-ogliostro-staff
+    last_updated: 3/24
+
+  - name: Olmsted
+    url: http://olmstednyc.com/
+    instagram: https://www.instagram.com/olmstednyc/
+    notes: Closed until further notice
+    links:
+      - title: Staff relief fund
+        url: https://www.gofundme.com/f/olmsted-amp-maison-yaki-staff-disaster-relief-fund
+      - title: Gift cards
+        url: https://ecommerce.custcon.com/Purchase/Select?c=3e6823e0-52c7-4c1b-af3d-1bb13862c508
+    last_updated: 3/18
+
+  - name: Oxalis
+    url: https://www.oxalisnyc.com
+    instagram: https://www.instagram.com/oxalisnyc/
+    notes: Closed until further notice
+    links:
+      - title: Staff relief fund
+        url: https://www.gofundme.com/f/oxalis-employee-relief-fund
+      - title: Gift cards
+        url: https://www.oxalisnyc.com/store/gift-cards/
+    last_updated: 3/16
+
+  - name: Sit & Wonder
+    url: http://sitandwonder.net/index.html
+    instagram: https://www.instagram.com/sitandwondercoffeeshop/
+    notes: Closed until further notice
+    links:
+      - title: Staff relief fund
+        url: https://www.gofundme.com/f/for-our-amazing-baristas
+    last_updated: 3/22
+
+  - name: Specific Gravity
+    url: https://specificgravitynyc.com
+    instagram: https://www.instagram.com/specific_gravity/
+    notes: Shop online or buy gift certificates
+    links:
+      - title: Gift cards
+        url: https://specificgravitynyc.com/products/gift-card-1
+    last_updated: 3/24
+
+  - name: Sweet Polly
+    instagram: https://www.instagram.com/sweetpollynyc/
+    url: http://www.esweetpollynyc.com
+    notes: Closed until further notice
+    links:
+      - title: Staff relief fund
+        url: https://www.gofundme.com/f/sweet-polly-team-relief-fund
+      - title: Gift cards (20% off)
+        url: https://squareup.com/gift/89TMFJQFPZE0N/order
+    last_updated: 3/22
+
+  - name: Weather Up
+    url: http://www.weatherupnyc.com/
+    notes: Closed until further notice
+    instagram: https://www.instagram.com/weatherupbars/
+    links:
+      - url: https://www.gofundme.com/f/weather-up-staff-relief
+        title: Staff relief fund
+    last_updated: 3/16
