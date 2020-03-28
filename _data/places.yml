@@ -16,3 +16,38 @@ open:
     notes: Can deliver within walking distance, updated menu items available for takeout!
      Coffee + Tea available, gift cards available via email - info@tradroombrooklyn.com.
     last_updated: 3/26
+  - name: Saraghina
+    url: http://www.saraghina.com
+    instagram: https://www.instagram.com/saraghinabrooklyn/
+    phone: (718) 574-0010
+    hours: 12PM-9PM
+    delivery:
+      caviar:
+        https://www.trycaviar.com/m/saraghina-4354
+    notes: Yes, we are open from 12-9! 🍕We are serving both our lunch and dinner menus ALL DAY! Call in to order pick up or delivery. You can also find us on @caviar Don’t forget the booze! Wine, beer and limited cocktails are also available (yes, our Margarita Italiano is one of them 🌿) Give us a call 718-574-0010 ☎️
+    last_updated: 3/28
+  - name: Peaches
+    url: http://www.peachesbrooklyn.com
+    instagram: https://www.instagram.com/saraghinabrooklyn/
+    phone: (718) 942-4162
+    hours: 11AM-11PM
+    delivery:
+      caviar:
+        https://www.trycaviar.com/m/peaches-17337
+    notes: Ok. So we all know we can’t go out. But do we all know you can still get your \#jimcadebreakfast And whats that in the back ground? Is that a \#shrimppoboy?!? And can I also get a \#brownstonepunch to go as well?!? The answer is all YES. Call \#peachesrestaurant 718-942-4162 for pick up or @GrubHub (liquor can be delivered) or @Caviar or @DoorDash Please stay safe. Nourishment heals.
+    last_updated: 3/28
+closed:
+  - name: Bar Lunático
+    url: http://www.barlunatico.com
+    instagram: https://www.instagram.com/barlunatico/
+    links:
+      - title: Go Fund Me
+        url: https://www.gofundme.com/f/bar-lunatico-staff-relief-fund
+    last_updated: 3/28
+  - name: Heritage Tonsorial
+    url: https://www.heritagetonsorial.com
+    instagram: https://www.instagram.com/heritage_tonsorial/
+    links:
+      - title: Hair Products
+        url: https://squareup.com/store/heritage-tonsorial/
+    last_updated: 3/28
