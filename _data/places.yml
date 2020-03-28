@@ -51,6 +51,26 @@ open:
     notes: >-
       Take out available 11am - 11pm, food, cocktails, beer and even your favorite cocktail.
     last_updated: 3/28
+  - name: Pilar Cuban Eatery + Bakery
+    url: https://www.pilarny.com
+    instagram: https://www.instagram.com/pilarcubanbakery/
+    phone: (718) 623-2822
+    hours: 11AM-4PM
+    delivery:
+      seamless:
+        https://www.seamless.com/menu/pilar-cuban-eatery-397-greene-ave-brooklyn/320481
+    notes: >-
+      📣Our Miami style coffee window is open for business!📣 Serving our delicious Cuban goodies.
+    last_updated: 3/28
+  - name: Guacuco
+    url: http://www.guacuconyc.com
+    instagram: https://www.instagram.com/guacucobedstuy
+    phone: (201) 817-5756
+    hours: 11AM-12PM
+    delivery:
+      seamless:
+        https://www.seamless.com/menu/guacuco-bed-stuy-360-throop-ave-brooklyn/620499
+    last_updated: 3/28
 closed:
   - name: Bar Lunático
     url: http://www.barlunatico.com
