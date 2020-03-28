@@ -28,7 +28,7 @@ open:
     last_updated: 3/28
   - name: Peaches
     url: http://www.peachesbrooklyn.com
-    instagram: https://www.instagram.com/saraghinabrooklyn/
+    instagram: https://www.instagram.com/peachesbrooklyn/
     phone: (718) 942-4162
     hours: 11AM-11PM
     delivery:
@@ -76,7 +76,6 @@ closed:
   - name: Trash Island
     url: https://trashislandbk.com
     instagram: https://www.instagram.com/trashislandbk
-    links:
-      - title: Venmo
-        url: "@trashislandbk"
+    notes: >-
+      Because of the shutdown we've decided to make a trash island venmo account to keep us afloat during these time! @trashislandbk
     last_updated: 3/28
