@@ -89,7 +89,7 @@ open:
     hours: 5PM-12PM
     links:
       - title: Go Fund Me
-        url: https://www.gofundme.com/f/black-swan-staff-relief-fund?utm_source=customer&utm_medium=copy_link&utm_campaign=p_cf+share-flow-1
+        url: https://www.gofundme.com/f/black-swan-staff-relief-fund
     delivery:
       doordash:
         https://www.doordash.com/store/black-swan-brooklyn-21213/
@@ -99,6 +99,32 @@ open:
         https://www.trycaviar.com/m/black-swan-8129
       seamless:
         https://www.seamless.com/menu/the-black-swan-1048-bedford-ave-brooklyn/304546
+    last_updated: 3/28
+  - name: Samurai Papa
+    url: https://www.samuraipapabk.com
+    instagram: https://www.instagram.com/samurai_papa_bedstuy/
+    phone: (718) 398-8181
+    links:
+      - title: Go Fund Me
+        url: https://www.gofundme.com/f/relief-fund-for-employees-of-bbf-group
+      - title: Gift Certificates
+        url: https://docs.google.com/forms/d/e/1FAIpQLSfPzk0vDg3DmJm8urBE4fhrxQlmdYehdQnUat2aYifyoWz1xQ/viewform
+      - title: Select Menu
+        url: https://www.instagram.com/p/B-NCFufDzzK/
+    delivery:
+      caviar:
+        https://www.trycaviar.com/m/samurai-papa-12434
+      seamless:
+        https://www.seamless.com/menu/samurai-papa-bs-594-lafayette-ave-brooklyn/550505
+    notes: >-
+      Still doing delivery and a quick takeout japanese deli!
+    last_updated: 3/28
+  - name: Zaca Cafe
+    url: https://www.zacacafe.com
+    instagram: https://www.instagram.com/zacacafebrooklyn/
+    phone: (718) 443-2500
+    notes: >-
+      Open for delivery and takeout! Order direct from us (718) 443-2500.
     last_updated: 3/28
 closed:
   - name: Bar Lunático
