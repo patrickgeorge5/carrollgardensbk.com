@@ -71,6 +71,35 @@ open:
       seamless:
         https://www.seamless.com/menu/guacuco-bed-stuy-360-throop-ave-brooklyn/620499
     last_updated: 3/28
+  - name: L'Antagoniste
+    url: http://lantagoniste.com
+    instagram: https://www.instagram.com/lantagoniste/
+    phone: (917) 966-5300
+    hours: WEDS-SUN 1PM-8PM
+    links:
+      - title: Delivery Menu
+        url: https://www.instagram.com/p/B920pdEBfKI/
+    notes: >-
+      We are open Wednesday-Sunday, 1pm - 8pm offering delivery and takeout. Options range from single menu items, to 4 serving family dinners, and selections from our wine list. Please visit our website or call for more information on ordering.
+    last_updated: 3/28
+  - name: Black Swan
+    url: https://www.blackswanbk.com
+    instagram: https://www.instagram.com/blackswanbk/
+    phone: (718) 783-4744
+    hours: 5PM-12PM
+    links:
+      - title: Go Fund Me
+        url: https://www.gofundme.com/f/black-swan-staff-relief-fund?utm_source=customer&utm_medium=copy_link&utm_campaign=p_cf+share-flow-1
+    delivery:
+      doordash:
+        https://www.doordash.com/store/black-swan-brooklyn-21213/
+      postmates:
+        https://postmates.com/merchant/the-black-swan-brooklyn
+      caviar:
+        https://www.trycaviar.com/m/black-swan-8129
+      seamless:
+        https://www.seamless.com/menu/the-black-swan-1048-bedford-ave-brooklyn/304546
+    last_updated: 3/28
 closed:
   - name: Bar Lunático
     url: http://www.barlunatico.com
