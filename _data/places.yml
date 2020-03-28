@@ -37,6 +37,20 @@ open:
     notes: >-
       Ok. So we all know we can’t go out. But do we all know you can still get your #jimcadebreakfast And whats that in the back ground? Is that a #shrimppoboy?!? And can I also get a #brownstonepunch to go as well?!? The answer is all YES. Call #peachesrestaurant 718-942-4162 for pick up or @GrubHub (liquor can be delivered) or @Caviar or @DoorDash Please stay safe. Nourishment heals.
     last_updated: 3/28
+  - name: Chez Oskar
+    url: http://www.chezoskar.com
+    instagram: https://www.instagram.com/chezoskar/
+    phone: (718) 852 6250
+    hours: 11AM-11PM
+    delivery:
+      doordash:
+        https://www.doordash.com/store/chez-oskar-brooklyn-22054
+    links:
+      - title: Go Fund Me
+        url: https://www.gofundme.com/f/help-support-the-staff-at-chez-oskar
+    notes: >-
+      Take out available 11am - 11pm, food, cocktails, beer and even your favorite cocktail.
+    last_updated: 3/28
 closed:
   - name: Bar Lunático
     url: http://www.barlunatico.com
@@ -51,4 +65,18 @@ closed:
     links:
       - title: Hair Products
         url: https://squareup.com/store/heritage-tonsorial/
+    last_updated: 3/28
+  - name: Mama Fox
+    url: https://www.mamafoxbk.com
+    instagram: https://www.instagram.com/mamafoxbk/
+    links:
+      - title: Go Fund Me
+        url: https://www.gofundme.com/f/team-mama-fox
+    last_updated: 3/28
+  - name: Trash Island
+    url: https://trashislandbk.com
+    instagram: https://www.instagram.com/trashislandbk
+    links:
+      - title: Venmo
+        url: "@trashislandbk"
     last_updated: 3/28
