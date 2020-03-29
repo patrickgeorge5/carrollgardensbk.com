@@ -187,6 +187,61 @@ open:
       seamless:
         https://www.grubhub.com/restaurant/grandchamps-197-patchen-ave-brooklyn/319263
     last_updated: 3/29
+  - name: BKLYN Blend
+    url: http://www.bklynblend.com
+    instagram: https://www.instagram.com/bklynblend/
+    phone: (718) 484-2247
+    hours: M-F 10AM-8PM SAT 10AM-7PM SUN 10AM-5PM
+    delivery:
+      uber_eats:
+        https://www.ubereats.com/new-york/food-delivery/brooklyn-blend/k585-1ERQTigHpqZ9mrHrw
+      door_dash:
+        https://www.doordash.com/store/brooklyn-blend-brooklyn-214102/
+      seamless:
+        https://www.seamless.com/menu/brooklyn-blend-194-tompkins-ave-brooklyn/321156
+    last_updated: 3/29
+  - name: The Bush Doctor Juice Bar
+    url: http://www.thebushdoctor.net
+    instagram: https://www.instagram.com/thebushdoctorjuicebar/
+    phone: (718) 594-7607
+    delivery:
+      uber_eats:
+        https://www.ubereats.com/new-york/food-delivery/brooklyn-blend/k585-1ERQTigHpqZ9mrHrw
+      seamless:
+        https://www.grubhub.com/restaurant/the-bush-doctor-juice-bar-307-tompkins-ave-brooklyn/285674
+    last_updated: 3/29
+  - name: Bed-Vyne Brew
+    instagram: https://www.instagram.com/bedvynebrew/
+    phone: (347) 295-2218
+    hours: FRI-SAT 1pm-6pm
+    links:
+      - title: Go Fund Me
+        url: https://www.gofundme.com/manage/bedvyne-staff-covid19-relief-fund
+      - title: Growlers to Go
+        url: https://www.instagram.com/p/B-SU8fkgQHs/
+    notes: >-
+      Growlers to go are back! 🍻 Call to place delivery or pick up. Pickup between 1pm - 6pm. Deliveries made after 6pm
+    last_updated: 3/29
+  - name: Soldier Jerk Center
+    url: https://jerk-center.business.site
+    instagram: https://www.instagram.com/soldierjerkcenter/
+    phone: (347) 627-5394
+    delivery:
+      uber_eats:
+        https://www.ubereats.com/new-york/food-delivery/soldier-jerk-center-bed-stuy/4XLruY6IQPidW6PFgQ08NQ
+      door_dash:
+        https://www.doordash.com/store/soldiers-jerk-center-and-restaurant-brooklyn-730418
+    last_updated: 3/29
+  - name: Do or Dive Bar
+    instagram: https://www.instagram.com/doordivebedstuy/
+    hours: THURS 4-8PM F S SUN 1-8PM
+    phone: (917) 484-1108
+    links:
+      - title: Go Fund Me
+        url: https://www.gofundme.com/f/support-your-neighborhood-bar-staff
+    notes: >-
+      $20 bloody mix while supplies last $25 bottle of Rancho Tequila (100% agave) and of course THE CLAW! Delivery til 8pm DM or txt 917-484-1108.
+    last_updated: 3/29
 closed:
   - name: Bar Lunático
     url: http://www.barlunatico.com
@@ -215,3 +270,21 @@ closed:
     notes: >-
       Because of the shutdown we've decided to make a trash island venmo account to keep us afloat during these time! @trashislandbk
     last_updated: 3/28
+  - name: Diamond Reef
+    url: https://diamondreefnyc.com
+    instagram: https://www.instagram.com/diamondreef/
+    links:
+      - title: Go Fund Me
+        url: https://www.gofundme.com/f/diamond-reef-staff-support-fund
+      - title: Gift Certificates + Merch
+        url: https://diamondreefnyc.com
+    last_updated: 3/29
+  - name: Doris
+    url: https://doris-bed-stuy.myshopify.com
+    instagram: https://www.instagram.com/dorisbedstuy/
+    links:
+      - title: Go Fund Me
+        url: https://www.gofundme.com/f/doris-staff-relief-fund
+      - title: Gift Certificates
+        url: https://doris-bed-stuy.myshopify.com
+    last_updated: 3/29
