@@ -242,6 +242,19 @@ open:
     notes: >-
       $20 bloody mix while supplies last $25 bottle of Rancho Tequila (100% agave) and of course THE CLAW! Delivery til 8pm DM or txt 917-484-1108.
     last_updated: 3/29
+  - name: David's Brisket House
+    url: https://www.facebook.com/davidsbriskethouse/
+    instagram: https://www.instagram.com/doordivebedstuy/
+    hours: 12PM - 8PM
+    phone: (718) 789-1155
+    delivery:
+      doordash:
+        https://www.doordash.com/store/david-s-house-of-brisket-brooklyn-255505/
+      seamless:
+        https://www.seamless.com/menu/davids-brisket-house-533-nostrand-ave-brooklyn/1027623
+    notes: >-
+      David’s Brisket House is delivering free of charge outside of online delivery services. Please call 718-789-1155. Thank you to all.
+    last_updated: 3/29
 closed:
   - name: Bar Lunático
     url: http://www.barlunatico.com
