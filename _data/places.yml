@@ -178,7 +178,7 @@ open:
     delivery:
       uber_eats:
         https://www.ubereats.com/en-US/new-york/food-delivery/grandchamps-bedford-stuyvesant/_w1GyWfaRMiY1646_jm7KA/
-      door_dash:
+      doordash:
         https://www.doordash.com/store/grandchamps-brooklyn-86916/
       postmates:
         https://postmates.com/merchant/grandchamps-kitchen-market-brooklyn
@@ -195,7 +195,7 @@ open:
     delivery:
       uber_eats:
         https://www.ubereats.com/new-york/food-delivery/brooklyn-blend/k585-1ERQTigHpqZ9mrHrw
-      door_dash:
+      doordash:
         https://www.doordash.com/store/brooklyn-blend-brooklyn-214102/
       seamless:
         https://www.seamless.com/menu/brooklyn-blend-194-tompkins-ave-brooklyn/321156
@@ -229,7 +229,7 @@ open:
     delivery:
       uber_eats:
         https://www.ubereats.com/new-york/food-delivery/soldier-jerk-center-bed-stuy/4XLruY6IQPidW6PFgQ08NQ
-      door_dash:
+      doordash:
         https://www.doordash.com/store/soldiers-jerk-center-and-restaurant-brooklyn-730418
     last_updated: 3/29
   - name: Do or Dive Bar
