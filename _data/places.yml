@@ -126,6 +126,67 @@ open:
     notes: >-
       Open for delivery and takeout! Order direct from us (718) 443-2500.
     last_updated: 3/28
+  - name: Natural Blend
+    url: https://www.facebook.com/pages/category/Vegetarian-Vegan-Restaurant/Natural-Blend-Vegan-Cafe-Juice-Bar-451426711724799/
+    instagram: https://www.instagram.com/naturalblend/
+    phone: (347) 378-2440
+    hours: M-SAT 8:30AM - 7:30PM
+    delivery:
+      postmates:
+        https://postmates.com/merchant/natural-blend-brooklyn-29693
+      seamless:
+        https://www.seamless.com/menu/natural-blend-vegan-cafe--juice-bar-243-malcom-x-blvd-brooklyn/757132
+    notes: >-
+      Delivery through Postmates, Pick up through Seamless.
+    last_updated: 3/29
+  - name: Corto
+    url: https://www.facebook.com/pages/category/Cafe/Corto-107488730847605/
+    instagram: https://www.instagram.com/cortobrooklyn/
+    phone: (917) 966-1499
+    hours: 11AM-6PM
+    delivery:
+      seamless:
+        https://www.seamless.com/menu/corto-260-halsey-st-brooklyn/1967231
+    last_updated: 3/29
+  - name: Cafe on Ralph
+    url: http://cafeonralphave.com
+    instagram: https://www.instagram.com/cafeonralphave/
+    phone: (347) 413-5753
+    hours: 9AM-5PM
+    delivery:
+      caviar:
+        https://www.trycaviar.com/m/cafe-on-ralph-12467
+      seamless:
+        https://www.seamless.com/menu/cafe-on-ralph-86-ralph-ave-brooklyn/1426497
+    last_updated: 3/29
+  - name: Bed-Stuy Fish Fry
+    url: https://bedstuyfishfry.com
+    instagram: https://www.instagram.com/bedstuyfishfry/
+    phone: (347) 448-3924
+    hours: 11AM-11PM
+    delivery:
+      uber_eats:
+        https://www.ubereats.com/new-york/food-delivery/bed-stuy-fish-fry-halsey/WtYNNL-wTVSjcmy5Lzrp1g
+      seamless:
+        https://www.seamless.com/menu/bed-stuy-fish-fry-801-halsey-st-brooklyn/549305
+    last_updated: 3/29
+  - name: Grandchamps
+    url: https://www.grandchamps.nyc
+    instagram: https://www.instagram.com/grandchampsbk/
+    phone: (718) 484-4880
+    hours: 12PM-8PM
+    delivery:
+      uber_eats:
+        https://www.ubereats.com/en-US/new-york/food-delivery/grandchamps-bedford-stuyvesant/_w1GyWfaRMiY1646_jm7KA/
+      door_dash:
+        https://www.doordash.com/store/grandchamps-brooklyn-86916/
+      postmates:
+        https://postmates.com/merchant/grandchamps-kitchen-market-brooklyn
+      caviar:
+        https://www.trycaviar.com/m/grandchamps-14201
+      seamless:
+        https://www.grubhub.com/restaurant/grandchamps-197-patchen-ave-brooklyn/319263
+    last_updated: 3/29
 closed:
   - name: Bar Lunático
     url: http://www.barlunatico.com
