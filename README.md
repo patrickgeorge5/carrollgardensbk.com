@@ -1,4 +1,4 @@
-# Help Prospect Heights!
+# Help Carroll Gardens!
 
 **CONTRIBUTIONS WELCOME**, both in terms of content and design/features.
 
