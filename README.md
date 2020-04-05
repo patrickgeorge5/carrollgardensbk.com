@@ -1,4 +1,4 @@
-# Help Prospect Heights!
+# Help Carroll Gardens!
 
 **CONTRIBUTIONS WELCOME**, both in terms of content and design/features.
 
@@ -10,6 +10,6 @@ Content is all managed within `_data/places.yml`.
 
 An (incomplete) list of businesses to potentially add can be found [on this wiki page](https://github.com/irace/prospectheightsbk.com/wiki).
 
-# License
+## Source
 
-Available for use under the MIT license: [http://bryan.mit-license.org](http://bryan.mit-license.org)
+Forked from [Bryan Irace's work](https://github.com/irace/prospectheightsbk.com) for [prospectheightsbk.com](prospectheightsbk.com)
